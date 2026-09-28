@@ -1,6 +1,6 @@
-package sync;
+package com.monitor.sync;
 
-import src.com.monitor.model.Estudiante;
+import com.monitor.model.Estudiante;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.concurrent.Semaphore;
